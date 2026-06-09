@@ -1,5 +1,7 @@
 # TransformKit
 
+**[Live Demo](https://ajoealex.github.io/transformkit/)**
+
 A modern, fully offline encoding/decoding, hashing, and compression tool built with React and TailwindCSS. All processing happens locally in your browser - no data is sent to any server.
 
 ## Features
